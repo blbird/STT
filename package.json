@@ -1,0 +1,21 @@
+{
+  "name": "STT_SAMPLE",
+  "version": "1.0.0",
+  "private": true,
+  "description": "This is sample application to use Watson STT",
+  "keywords": [
+    "stt"
+  ],
+  "author": "YongHun Jeon",
+  "license": "Apache-2.0",
+  "main": "./stt.js",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "watson-developer-cloud": "^3.0.3",
+    "vcap_services": "^0.1.7",
+    "wav" : "^1.0.1",
+    "mic" : "^2.1.2",
+    "async": "^2.6.0",
+    "extend": "^3.0.0"
+  }
+}

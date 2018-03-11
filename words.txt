@@ -1,0 +1,4 @@
+  [
+    {"word": "HHonors", "sounds_like": ["hilton honors", "H. honors"], "display_as": "HHonors"},
+    {"word": "IEEE", "sounds_like": ["I. triple E."]}
+  ]
